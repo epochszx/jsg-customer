@@ -1,4 +1,4 @@
-# ej-customer
+# jsg-customer
 
 ## Project setup
 ```
